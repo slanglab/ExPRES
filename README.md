@@ -11,7 +11,7 @@ This repository contains models developed to analyze epistemic stances in politi
 
 
 ### Citation Information
-If you use ezCoref, please cite it as follows:
+If you use our work, please cite it as follows:
 ```
 @article{expres-2022,
   title={Examining Political Rhetoric with Epistemic Stance Detection},
