@@ -6,7 +6,7 @@
 [![arxiv](https://img.shields.io/badge/arXiv-2205.09726-b31b1b.svg)]()
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
-This is the official repository for our paper, [Examining Political Rhetoric with Epistemic Stance Detection]().
+This is the official repository for our paper, <a href="https://github.com/slanglab/ExPRES/blob/main/Factuality_NLP_CSS_final.pdf">Examining Political Rhetoric with Epistemic Stance Detection</a>.
 This repository contains models developed to analyze epistemic stances in political text (coming soon).
 
 
