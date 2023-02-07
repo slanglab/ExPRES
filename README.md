@@ -13,10 +13,11 @@ This repository contains models developed to analyze epistemic stances in politi
 ### Citation Information
 If you use our work, please cite it as follows:
 ```
-@article{expres-2022,
+@inproceedings{expres-2022,
   title={Examining Political Rhetoric with Epistemic Stance Detection},
-  author={Ankita Gupta, Su Lin Blodgett, Justin H Gross, Brendan O'Connor},
-  journal={Proceedings of the Fifth Workshop on Natural Language Processing and Computational Social Science},
+  author={Ankita Gupta and Su Lin Blodgett and Justin H Gross and Brendan O'Connor},
+  booktitle={Proceedings of the Fifth Workshop on Natural Language Processing and Computational Social Science},
+  abbr={NLP+CSS},
   year={2022}
 }
 ```
